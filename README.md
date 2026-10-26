@@ -1,73 +1,94 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ======================= BOOT ======================= -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Webert%20Abreu&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20FullStack%20%E2%80%A2%20Criador%20de%20conte%C3%BAdo&descAlignY=60&descSize=18&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=180&text=WEBERT%20ABREU&fontSize=58&fontColor=00ff9f&fontAlignY=45&desc=%3C%2F%3E%20FullStack%20Developer&descSize=18&descAlignY=72&descColor=8b949e&animation=twinkling" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/webert-abreu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=console.log(%22Ol%C3%A1%2C+mundo!+%F0%9F%91%8B%22);Transformo+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;React+%E2%80%A2+Next.js+%E2%80%A2+Laravel+%E2%80%A2+TypeScript;Ensino+o+que+aprendo+no+YouTube+%F0%9F%8E%A5" alt="Typing SVG" />
-  </a>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=600&color=00FF9F&multiline=true&width=720&height=120&lines=%24+.%2Fwebert.sh+--init;%3E+carregando+m%C3%B3dulos%3A+react%2C+next%2C+laravel...+%E2%9C%94;%3E+conectando+ao+YouTube...+%E2%9C%94;%3E+status%3A+online+e+codando+%F0%9F%9A%80" alt="boot" />
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/@webertabreu?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Webert%20Abreu-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/webert.dev/"><img src="https://img.shields.io/badge/Instagram-@webert.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/webert-abreu?tab=followers"><img src="https://img.shields.io/github/followers/webert-abreu?label=Seguidores&style=for-the-badge&logo=github&color=302b63" /></a>
-  <img src="https://komarev.com/ghpvc/?username=webert-abreu&label=Visitas&style=for-the-badge&color=a78bfa" />
+<p align="left">
+  <a href="https://www.youtube.com/@webertabreu?sub_confirmation=1"><img src="https://img.shields.io/badge/-YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
+  <a href="https://www.instagram.com/webert.dev/"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+  <a href="https://www.linkedin.com/in/webertabreu"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://github.com/webert-abreu?tab=followers"><img src="https://img.shields.io/github/followers/webert-abreu?label=followers&style=for-the-badge&logo=github&color=0d1117&labelColor=0d1117&logoColor=00ff9f" /></a>
 </p>
 
 ---
 
-### `> cat sobre-mim.ts`
+### `~/webert $ neofetch`
 
-```ts
-const webert = {
-  nome: "Webert Abreu",
-  idade: 30,
-  origem: "Diadema, SP 🇧🇷",
-  cargo: "Desenvolvedor FullStack",
-  primeiroContato: "Java, aos 12 anos (o curso ficou pela metade 😅)",
-  virada: "Há quase 2 anos decidi focar de verdade — e não parei mais",
-  stack: {
-    front: ["React", "Next.js", "TypeScript", "Tailwind", "Sass", "Bootstrap"],
-    back: ["PHP", "Laravel"],
-    ferramentas: ["Git", "jQuery"],
-  },
-  compartilhaConhecimentoEm: ["YouTube", "Instagram"],
-  status: "apaixonado por tecnologia ❤️",
-};
-
-export default webert;
+```text
+   ██╗    ██╗ █████╗        webert@github
+   ██║    ██║██╔══██╗       ─────────────────────────────────────
+   ██║ █╗ ██║███████║       Usuário   →  Webert Abreu, 30 anos
+   ██║███╗██║██╔══██║       Cargo     →  Desenvolvedor FullStack
+   ╚███╔███╔╝██║  ██║       Origem    →  Diadema, SP 🇧🇷
+    ╚══╝╚══╝ ╚═╝  ╚═╝       Base      →  Balneário Camboriú, SC
+                            Uptime    →  codando desde os 12 (Java)
+                            Foco      →  ~2 anos de dedicação total
+                            Shell     →  TypeScript
+                            Broadcast →  YouTube + Instagram
+                            Status    →  ██████████ apaixonado por tecnologia
 ```
 
 ---
 
-### 🧰 Stack
+### `~/webert $ cat package.json`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,php,laravel,jquery,git,github,vscode&perline=8" />
+```json
+{
+  "name": "webert-abreu",
+  "description": "Desenvolvedor FullStack que ensina o que aprende",
+  "dependencies": {
+    "frontend": ["react", "next.js", "typescript", "tailwind", "sass", "bootstrap"],
+    "backend": ["php", "laravel"],
+    "tools": ["git", "jquery", "vscode"]
+  },
+  "scripts": {
+    "dev": "codar até tarde",
+    "build": "transformar ideia em produto",
+    "deploy": "gravar e compartilhar no YouTube"
+  }
+}
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,php,laravel,jquery,git,github,vscode&theme=dark&perline=15" />
 </p>
 
 ---
 
-### 📊 Números
+### `~/webert $ git log --oneline --graph`
+
+```diff
++ * a3f9c21 (HEAD -> main) feat: compartilhando projetos no YouTube e Instagram
++ * 7d2e8b4 feat: stack FullStack com React, Next.js e Laravel
++ * 5c1a0f9 refactor: decidi focar em programação de verdade
+- * 2b7e4d1 chore: pausa longa (o curso de Java ficou pela metade)
++ * 0e1d3a8 init: primeiro contato com programação, aos 12 anos
+```
+
+---
+
+### `~/webert $ ./stats --verbose`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=webert-abreu&show_icons=true&include_all_commits=true&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=a78bfa" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webert-abreu&layout=compact&langs_count=8&locale=pt-br&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&custom_title=Linguagens" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=webert-abreu&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=c9d1d9&ring_color=00ff9f" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webert-abreu&layout=compact&langs_count=8&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9&custom_title=Linguagens" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=webert-abreu&locale=pt_BR&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+  <img src="https://streak-stats.demolab.com?user=webert-abreu&locale=pt_BR&hide_border=true&background=0d1117&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=webert-abreu&theme=tokyo-night&hide_border=true&bg_color=00000000&color=a78bfa&line=a78bfa&point=ffffff&area=true&custom_title=Atividade%20nos%20%C3%BAltimos%2030%20dias" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=webert-abreu&bg_color=0d1117&color=c9d1d9&line=00ff9f&point=ffffff&area=true&area_color=00ff9f&hide_border=true&custom_title=commits.log%20%E2%80%94%20%C3%BAltimos%2030%20dias" />
 </p>
 
 ---
 
-### 🎥 Últimos vídeos no canal
+### `~/webert $ curl youtube.com/@webertabreu --latest`
 
 <!-- Atualizado automaticamente pelo GitHub Actions -->
 <!-- YOUTUBE:START -->
@@ -75,29 +96,22 @@ export default webert;
 
 ---
 
-<details>
-  <summary><b>🕹️ Curiosidades (clique para abrir)</b></summary>
-  <br/>
-
-- 🧒 Escrevi minha primeira linha de código aos 12 anos — em Java.
-- ⏸️ Dei uma pausa longa… e voltei com tudo.
-- 📹 Gravo o que aprendo, porque ensinar é o jeito mais rápido de aprender.
-- 💬 Me chama pra trocar ideia sobre React, Laravel ou criação de conteúdo.
-
-</details>
-
----
-
-### 🐍 Minhas contribuições sendo devoradas
+### `~/webert $ snake.eat(contributions)`
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webert-abreu/webert-abreu/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webert-abreu/webert-abreu/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/webert-abreu/webert-abreu/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/webert-abreu/webert-abreu/output/github-snake.svg" />
   </picture>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+---
+
+```text
+Process finished with exit code 0 — valeu pela visita! 👾
+```
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=webert-abreu&label=visitas&style=flat-square&color=00ff9f" />
 </p>
