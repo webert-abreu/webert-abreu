@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Webert Abreu, tenho 30 anos, sou natural de diadema, São Paulo. Meu primeiro contato com programação foi ao 12 anos qaundo conheci Java, mas não cheguei completar o curso, agora fazem quase 2 anos que decidi focar na programação e descobri que realmente sou apaixonado por tecnologia. Compartilho meu conhecimento através do meu canal no YouTube "[Webert Abreu](https://www.youtube.com/@webertabreu)", onde mostro um pouco dos meu projetos, e também através do Instagram, (https://www.instagram.com/webert.abreu/)".
+Me chamo Webert Abreu, tenho 30 anos, sou natural de Diadema, São Paulo. Meu primeiro contato com programação foi ao 12 anos qaundo conheci Java, mas não cheguei completar o curso, agora fazem quase 2 anos que decidi focar na programação e descobri que realmente sou apaixonado por tecnologia. Compartilho meu conhecimento através do meu canal no YouTube "[Webert Abreu](https://www.youtube.com/@webertabreu)", onde mostro um pouco dos meu projetos, e também através do Instagram, (https://www.instagram.com/webert.dev/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@webertabreu?sub_confirmation=1">
