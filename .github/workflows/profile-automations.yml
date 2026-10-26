@@ -32,11 +32,13 @@ jobs:
   youtube:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: gautamkrishnar/blog-post-workflow@v1
+        continue-on-error: true # se o YouTube falhar, tenta de novo na próxima execução
         with:
           comment_tag_name: YOUTUBE
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrtqjXrQo4TvjY0J7IFYDLg"
+          retry_count: 3
+          retry_wait_time: 15
           max_post_count: 4
           template: '<a href="$url"><img width="30%" src="$youtubeThumbnailUrl" alt="$title" /></a> '
-          image_tag_name: "img"
