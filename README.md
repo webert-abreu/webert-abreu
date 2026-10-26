@@ -34,8 +34,7 @@
 <h3 align="center">Últimos vídeos</h3>
 
 <p align="center">
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/KxCvGBbUpcQ"><img width="30%" src="$youtubeThumbnailUrl" alt="A IA vai parar de evoluir?" /></a><a href="https://www.youtube.com/shorts/Xn1dUHrS1CI"><img width="30%" src="$youtubeThumbnailUrl" alt="O júnior vai ter emprego?" /></a><a href="https://www.youtube.com/watch?v=9C8xA-eZOlA"><img width="30%" src="$youtubeThumbnailUrl" alt="O que estudar agora: roteiro do dev em 2026 | Só 5 coisas" /></a><a href="https://www.youtube.com/shorts/tSfe0JNgM1Y"><img width="30%" src="$youtubeThumbnailUrl" alt="Vibecoding não te faz programador" /></a><!-- YOUTUBE:END -->
 </p>
 
 <p align="center">
